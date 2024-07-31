@@ -1,6 +1,7 @@
 matplotlib
 numpy
 pandas
+python-dotenv
 quandl
 scikit-learn
 scipy
