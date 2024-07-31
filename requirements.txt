@@ -4,3 +4,4 @@ pandas
 quandl
 scikit-learn
 scipy
+seaborn
